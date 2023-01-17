@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Abhiram's GitHub stats](https://readme-stats.clckblog.space/api?username=abhiramelf&show_icons=true&theme=dark)
+
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **abhiramelf/abhiramelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
